@@ -1,0 +1,9 @@
+C:\Users\pijus\Documents\protfollio\src\App.jsx:1 'useEffect' is defined but never used. Allowed unused vars must match /^[A-Z_]/u.
+C:\Users\pijus\Documents\protfollio\src\components\About.jsx:2 'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u.
+C:\Users\pijus\Documents\protfollio\src\components\CV.jsx:2 'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u.
+C:\Users\pijus\Documents\protfollio\src\components\Contact.jsx:2 'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u.
+C:\Users\pijus\Documents\protfollio\src\components\Gallery.jsx:2 'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u.
+C:\Users\pijus\Documents\protfollio\src\components\Hero.jsx:2 'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u.
+C:\Users\pijus\Documents\protfollio\src\components\Projects.jsx:2 'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u.
+C:\Users\pijus\Documents\protfollio\src\components\Skills.jsx:2 'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u.
+C:\Users\pijus\Documents\protfollio\src\components\Testimonials.jsx:2 'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u.
